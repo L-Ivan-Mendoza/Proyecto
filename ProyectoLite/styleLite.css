@@ -81,6 +81,11 @@ body {
 /********** Pantallas grandes **********/
 
 @media (min-width: 720px) {
+    
+    #info, #footerRedes {
+        padding-left: 130px;
+    }
+    
     #info, #redes {
         width: 400px !important;
     }
